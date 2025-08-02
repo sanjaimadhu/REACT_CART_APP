@@ -26,7 +26,7 @@ REACT CART TASK OUTPUT (http://localhost:5173/)
 
 ## Author:
 
-- **Madhusudhanan s** - **[Gitup Website](https://github.com/mingomadhu)**, **[NETLIFY](https://app.netlify.com/teams/sanjaimadhu8220/sites)**
+- **Madhusudhanan s** - **[Gitup Website](https://github.com/sanjaimadhu/REACT_CART_APP)**, **[NETLIFY](https://app.netlify.com/teams/sanjaimadhu8220/sites)**
 
 <br/>
 
